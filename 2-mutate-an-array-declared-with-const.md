@@ -1,3 +1,8 @@
+# ES6: Mutate an Array Declared with const
+An array is declared as const s = [5, 7, 2]. Change the array to [2, 5, 7] using various element assignments.
+
+# Solution:
+```javascript
 const s = [5, 7, 2];
 function editInPlace() {
   // Only change code below this line
@@ -9,3 +14,4 @@ function editInPlace() {
   // Only change code above this line
 }
 editInPlace();
+```

@@ -1,5 +1,5 @@
 # freeCodeCampES6
-Here are my solutions to some challenges on the freeСodeСamp course "JavaScript Algorithms and Data Structures, ES6".
+My solutions to challenges on the freeСodeСamp course "JavaScript, ES6".
 
 
 ECMAScript is a standardized version of JavaScript with the goal of unifying the language's specifications and features. As all major browsers and JavaScript-runtimes follow this specification, the term ECMAScript is interchangeable with the term JavaScript.

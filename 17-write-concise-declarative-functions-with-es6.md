@@ -10,8 +10,9 @@ const person = {
 };
 ```
 Refactor the function setGear inside the object bicycle to use the shorthand syntax described above.
-```javascript
+
 # Solution
+```javascript
 // Only change code below this line
 const bicycle = {
   gear: 2,

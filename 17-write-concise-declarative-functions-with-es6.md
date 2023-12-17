@@ -1,6 +1,6 @@
 # ES6: Write Concise Declarative Functions with ES6
 With ES6, you can remove the function keyword and colon altogether when defining functions in objects. Here's an example of this syntax:
-# Example
+# Example:
 ```javascript
 const person = {
   name: "Taylor",
@@ -11,7 +11,7 @@ const person = {
 ```
 Refactor the function setGear inside the object bicycle to use the shorthand syntax described above.
 
-# Solution
+# Solution:
 ```javascript
 // Only change code below this line
 const bicycle = {
